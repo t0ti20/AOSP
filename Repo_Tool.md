@@ -15,8 +15,6 @@ chmod a+x ~/bin/repo
 # Add to PATH (add to ~/.bashrc or ~/.zshrc)
 export PATH="$HOME/bin:$PATH"
 ```
-Here’s how you can add a **Windows PowerShell** equivalent section to the same installation & setup instructions:
-
 ---
 
 ## 🪟 Installation & Setup (Windows - PowerShell)
