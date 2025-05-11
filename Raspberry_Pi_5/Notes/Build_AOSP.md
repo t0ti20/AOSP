@@ -1,5 +1,7 @@
 # 🚀 Android 15 (AOSP) for Raspberry Pi 5 - Complete Build Guide
 
+![Android 15 Guide for Raspberry Pi](https://github.com/user-attachments/assets/6bb7617e-4240-492d-b994-ca6aa36664c4)
+
 ## Table of Contents
 1. [System Requirements](#-system-requirements)
 2. [Environment Setup](#-environment-setup)
